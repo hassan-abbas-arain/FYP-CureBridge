@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv_dp/
+.venv/
+env/
+ENV/
+venv/
+
+# Model artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# Data files 
+Dataset/*.csv
+Dataset/*.txt
+Dataset/*.pickle
+
+# Logs and output
+*.log
+*.out
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace

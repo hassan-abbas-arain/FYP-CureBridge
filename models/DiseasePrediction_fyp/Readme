@@ -1,0 +1,12 @@
+Random Forest - Test Accuracy: 0.8526, Cross-Validation: 87.63%
+
+SVM - Test Accuracy: 0.8639, Cross-Validation: 88.18%
+
+Decision Tree - Test Accuracy: 0.8039, Cross-Validation: 83.36%
+_______________________________________________________________
+Test Accuracy (Stacking with Logistic Regression): 0.8552
+Cross-Validation Accuracy (Stacking with Logistic Regression): 86.03%
+
+Test Accuracy (Stacking with Random Forest): 0.8620
+Cross-Validation Accuracy (Stacking with Random Forest): 84.91%
+

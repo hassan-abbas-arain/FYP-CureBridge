@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv_se/
+.venv/
+env/
+ENV/
+venv/
+
+# Environment config
+*.env
+*.ini
+*.cfg
+
+# VSCode and editor settings
+.vscode/
+*.code-workspace
+
+# Docker
+*.log
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python dependency files
+pip-log.txt

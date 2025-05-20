@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+xgboost
+nltk
+beautifulsoup4
+requests
+joblib
+html5lib
+googlesearch-python

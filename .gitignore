@@ -1,0 +1,44 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments
+.venv/
+venv*/
+env/
+ENV/
+sa_venv/
+venv_se/
+venv_dp/
+
+# Model Artifacts
+*.joblib
+*.pkl
+*.pt
+*.bin
+*.h5
+*.pickle
+*.model
+*.safetensors
+*.json
+
+# Dataset Files
+Dataset/*.csv
+Dataset/*.txt
+Dataset/*.pickle
+
+# Logs & Outputs 
+*.log
+*.out
+*.tmp
+*.pid
+
+# Editor & OS Files 
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Project Specific Folders 
+curebridge_xlnet_model/

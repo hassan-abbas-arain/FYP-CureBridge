@@ -1,0 +1,36 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+sa_venv/
+.venv/
+env/
+ENV/
+venv/
+
+# Model files and training artifacts
+*.bin
+*.model
+*.safetensors
+*.json
+*.pt
+*.h5
+
+
+curebridge_xlnet_model/
+
+# Dataset files 
+Dataset/*.csv
+
+# Logs or temporary output
+*.log
+*.out
+*.tmp
+
+# IDE/editor files
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
